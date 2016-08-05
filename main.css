@@ -1,0 +1,143 @@
+body {
+  text-align: center;
+  min-height: inherit;
+
+  background-color: #f3f3f3; /* For browsers that do not support gradients */
+  background-image: -webkit-linear-gradient(white, #f3f3f3); /* For Safari 5.1 to 6.0 */
+  background-image:    -moz-linear-gradient(white, #f3f3f3); /* For Firefox 3.6 to 15 */
+  background-image:      -o-linear-gradient(white, #f3f3f3); /* For Opera 11.1 to 12.0 */
+  background-image:         linear-gradient(white, #d3d3d3); /* Standard syntax */
+  position: relative;
+}
+
+html {
+  min-height: 100vh;
+  position: relative;
+}
+
+p {
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+
+
+article {
+  width: 750px;
+  margin-left: 25px;
+  position: relative;
+}
+
+aside {
+  position: relative;
+  float: right;
+  width: 400px;
+  margin-left: 25px;
+}
+
+.body-wrapper {
+  min-height: 100vh;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+.carousel-caption {
+  color: black;
+  position: relative;
+  left: 2px;
+  right: 2px;
+  text-align: left;
+  font-size: 20px;
+}
+
+  
+#logo {
+  content: url(images/logo.png);
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  position: absolute;
+  bottom: 0px;
+  width: 400px;
+  height: 85px;
+}
+
+#nav {
+  content: url(images/nav_bar.png);
+  width: 720px;
+  margin: 0 auto;
+
+}
+
+
+<!-- AmericanGoldCoin.cn@gmail.com -->
+<!-- am8Gcoin8 -->
+
+
+
+<!--
+
+TO DO
+
+general
++-move nav bar to CSS
+++new nav
+++gradient background
+++white column in center
+  75% of logo size
+  COMMENTS, DWAG
+
+home
+  swap text and carousel position (if can)
+++header for carousel ("China Int'l Economic News") <u>
+
+gallery
+++add in images and links
+
+
+individual gallery items
+++20px font title <u>
+++credit zodiac photo from Christie's auction house (bronze statue of rat and rabbit)
+++and give it more space
+
+++A dream of red mansionS
+
+
+
+
+
+
+
+Okay, so I finally figured out the proper way to do a bunch of the stuff I've been doing.
+I can move the scrolling news stories to whichever side no problemo. Not sure it looks better reversed, though.
+Hopefully I have time to comment up the CSS page and let you change whichever items you'd like.
+Let's get a quick favicon going?
+
+
+
+
+
+Other publications
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
