@@ -73,6 +73,7 @@ aside {
 
 #nav {
   content: url(images/nav_bar_p.jpg);
+  height: 216px;
   width: 720px;
   margin: 0 auto;
 
