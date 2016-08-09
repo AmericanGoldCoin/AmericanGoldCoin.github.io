@@ -59,7 +59,7 @@ aside {
 
   
 #logo {
-  content: url(images/logo.png);
+  content: url(images/logo.jpg);
   left: 0;
   right: 0;
   margin-left: auto;
@@ -72,7 +72,7 @@ aside {
 }
 
 #nav {
-  content: url(images/nav_bar.png);
+  content: url(images/nav_bar.jpg);
   width: 720px;
   margin: 0 auto;
 
