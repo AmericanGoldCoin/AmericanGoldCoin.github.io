@@ -57,24 +57,3 @@ aside {
   font-size: 20px;
 }
 
-  
-#logo {
-  content: url(images/logo_p.jpg);
-  left: 0;
-  right: 0;
-  margin-left: auto;
-  margin-right: auto;
-  height: 100px;
-  position: absolute;
-  bottom: 0px;
-  width: 400px;
-  height: 85px;
-}
-
-#nav {
-  content: url(images/nav_bar_p.jpg);
-  height: 216px;
-  width: 720px;
-  margin: 0 auto;
-
-}
